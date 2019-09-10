@@ -2,7 +2,7 @@
 #Last edited: Alan Long 5/16/18
 
 #This code takes in an array and removes all non-positive, infinite, and not a
-#numbers. It accepts an array and outputs an array of the same length.
+#numbers. It acceptsdddd an array and outputs an array of the same length.
 
 
 
